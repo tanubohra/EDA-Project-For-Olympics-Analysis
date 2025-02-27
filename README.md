@@ -11,7 +11,7 @@ This project involves an **Exploratory Data Analysis (EDA)** on the **Summer Oly
 The dataset used for this analysis includes historical data from Olympics events, containing information such as athlete details, event specifics, and medal outcomes.  
 
 ### **Files:**
-- 📄 **Athlete_Events.csv**: Olympics data from **1896 to 2016**.  
+- 📄 **Olympics dataset.csv**: Olympics data from **1896 to 2024**.  
 - 📄 **NOC_regions.csv**: For correct NOC of each team.  
 
 ---
